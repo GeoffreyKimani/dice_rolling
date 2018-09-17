@@ -10,3 +10,5 @@ A java program that simulates the rolling of a dice 1000 times. The program is m
 The program uses math.random java method to generate random numbers between 0 and 1
 The randomness of the system is dependent on the numbers produced by this java method.
 We divide the numbers into a 1/6 th probability, where each one of the  six sides is a face of the dice.
+
+Switch to the Dev branch to see the code and download the java package files.
